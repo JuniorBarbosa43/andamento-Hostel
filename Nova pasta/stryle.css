@@ -1,0 +1,62 @@
+body {
+    background-color: #FAF5EA;
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+    
+  }
+  
+
+  p {
+    font-size: x-large;
+    padding-right: 30% ;
+  }
+
+  h2 { 
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #3D167B;
+    font-weight: 600;
+    margin-bottom: 30px;
+    
+  }
+
+  h5 {
+    font-size: 38px;
+    color: #fff;
+  }
+
+  h4 {
+    font-size: 30px;
+    line-height: 1.375em;
+    color: #3D167B;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }  
+  .jumbotron {
+    background-color: #FAF5EA;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+  }
+
+  .bg-grey {
+    background-color: #FEC701;
+  }
+  .logo-small {
+    color: #3D167B;
+    font-size: 50px;
+  }
+  .logo {
+    color: #3D167B;
+    font-size: 200px;
+  }
+  .thumbnail {
+    padding: 0 0 0 0;
+    border: none;
+    border-radius: 0;
+  }
+ 
+
+
+ 
